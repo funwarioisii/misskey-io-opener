@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Misskey.io Opener",
+    "version": "1.0",
+    "description": "open fediverse links in misskey.io",
+    "permissions": ["contextMenus"],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_title": "Open in misskey.io"
+    },
+    "icons": {
+        "48": "icon.png"
+    }
+}
