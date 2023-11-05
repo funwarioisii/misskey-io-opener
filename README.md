@@ -1,6 +1,8 @@
 misskey-io-opener
 ===
 
+[日本語はこちら](https://github.com/funwarioisii/misskey-io-opener/blob/master/README.ja.md)
+
 This is a Chrome extension to open misskey or mastodon links with Misskey.io instance.
 
 https://github.com/funwarioisii/misskey-io-opener/assets/20943066/ababcd7d-7e01-48b9-ac0c-a158a703b6be
