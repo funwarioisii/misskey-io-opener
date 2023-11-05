@@ -3,7 +3,7 @@ misskey-io-opener
 
 misskey や mastdon のリンクを Misskey.io インスタンスで開くための Chrome 拡張機能です。
 
-https://storage.cloud.google.com/kazu-public/misc/misskey-io-opener.mov
+https://github.com/funwarioisii/misskey-io-opener/assets/20943066/ababcd7d-7e01-48b9-ac0c-a158a703b6be
 
 ## インストール
 - ローカルにクローンします。 `https://github.com/funwarioisii/misskey-io-opener/archive/refs/heads/master.zip` をリンクしてダウンロードできます。
